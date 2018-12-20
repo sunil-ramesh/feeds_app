@@ -16,6 +16,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'stream_rails'
 gem 'devise'
 gem 'bootstrap-sass'
+gem 'pry'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
